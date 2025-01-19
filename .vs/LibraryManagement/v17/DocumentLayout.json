@@ -1,0 +1,129 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\panda10\\Desktop\\LibraryManagementSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7C6BC500-625F-44A7-8064-A5F625E64E73}|LibraryManagementSystem\\LibraryManagementSystem.csproj|c:\\users\\panda10\\desktop\\librarymanagementsystem\\librarymanagementsystem\\tests\\librarymanagementtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C6BC500-625F-44A7-8064-A5F625E64E73}|LibraryManagementSystem\\LibraryManagementSystem.csproj|solutionrelative:librarymanagementsystem\\tests\\librarymanagementtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\panda10\\AppData\\Local\\Temp\\Rar$DIa13860.44422.rartemp\\LibraryManagementTests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C6BC500-625F-44A7-8064-A5F625E64E73}|LibraryManagementSystem\\LibraryManagementSystem.csproj|c:\\users\\panda10\\desktop\\librarymanagementsystem\\librarymanagementsystem\\entities\\library.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C6BC500-625F-44A7-8064-A5F625E64E73}|LibraryManagementSystem\\LibraryManagementSystem.csproj|solutionrelative:librarymanagementsystem\\entities\\library.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C6BC500-625F-44A7-8064-A5F625E64E73}|LibraryManagementSystem\\LibraryManagementSystem.csproj|c:\\users\\panda10\\desktop\\librarymanagementsystem\\librarymanagementsystem\\entities\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C6BC500-625F-44A7-8064-A5F625E64E73}|LibraryManagementSystem\\LibraryManagementSystem.csproj|solutionrelative:librarymanagementsystem\\entities\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C6BC500-625F-44A7-8064-A5F625E64E73}|LibraryManagementSystem\\LibraryManagementSystem.csproj|c:\\users\\panda10\\desktop\\librarymanagementsystem\\librarymanagementsystem\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C6BC500-625F-44A7-8064-A5F625E64E73}|LibraryManagementSystem\\LibraryManagementSystem.csproj|solutionrelative:librarymanagementsystem\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C6BC500-625F-44A7-8064-A5F625E64E73}|LibraryManagementSystem\\LibraryManagementSystem.csproj|c:\\users\\panda10\\desktop\\librarymanagementsystem\\librarymanagementsystem\\entities\\bookbuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C6BC500-625F-44A7-8064-A5F625E64E73}|LibraryManagementSystem\\LibraryManagementSystem.csproj|solutionrelative:librarymanagementsystem\\entities\\bookbuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LibraryManagementTests.cs",
+              "DocumentMoniker": "C:\\Users\\panda10\\AppData\\Local\\Temp\\Rar$DIa13860.44422.rartemp\\LibraryManagementTests.cs",
+              "RelativeDocumentMoniker": "..\\..\\AppData\\Local\\Temp\\Rar$DIa13860.44422.rartemp\\LibraryManagementTests.cs",
+              "ToolTip": "C:\\Users\\panda10\\AppData\\Local\\Temp\\Rar$DIa13860.44422.rartemp\\LibraryManagementTests.cs",
+              "RelativeToolTip": "..\\..\\AppData\\Local\\Temp\\Rar$DIa13860.44422.rartemp\\LibraryManagementTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-18T12:17:15.088Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Book.cs",
+              "DocumentMoniker": "C:\\Users\\panda10\\Desktop\\LibraryManagementSystem\\LibraryManagementSystem\\Entities\\Book.cs",
+              "RelativeDocumentMoniker": "LibraryManagementSystem\\Entities\\Book.cs",
+              "ToolTip": "C:\\Users\\panda10\\Desktop\\LibraryManagementSystem\\LibraryManagementSystem\\Entities\\Book.cs",
+              "RelativeToolTip": "LibraryManagementSystem\\Entities\\Book.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAwwB4AAABWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T17:09:02.195Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BookBuilder.cs",
+              "DocumentMoniker": "C:\\Users\\panda10\\Desktop\\LibraryManagementSystem\\LibraryManagementSystem\\Entities\\BookBuilder.cs",
+              "RelativeDocumentMoniker": "LibraryManagementSystem\\Entities\\BookBuilder.cs",
+              "ToolTip": "C:\\Users\\panda10\\Desktop\\LibraryManagementSystem\\LibraryManagementSystem\\Entities\\BookBuilder.cs",
+              "RelativeToolTip": "LibraryManagementSystem\\Entities\\BookBuilder.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAQwBEAAABoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T17:09:01.682Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Library.cs",
+              "DocumentMoniker": "C:\\Users\\panda10\\Desktop\\LibraryManagementSystem\\LibraryManagementSystem\\Entities\\Library.cs",
+              "RelativeDocumentMoniker": "LibraryManagementSystem\\Entities\\Library.cs",
+              "ToolTip": "C:\\Users\\panda10\\Desktop\\LibraryManagementSystem\\LibraryManagementSystem\\Entities\\Library.cs",
+              "RelativeToolTip": "LibraryManagementSystem\\Entities\\Library.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T17:09:01.104Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\panda10\\Desktop\\LibraryManagementSystem\\LibraryManagementSystem\\Entities\\User.cs",
+              "RelativeDocumentMoniker": "LibraryManagementSystem\\Entities\\User.cs",
+              "ToolTip": "C:\\Users\\panda10\\Desktop\\LibraryManagementSystem\\LibraryManagementSystem\\Entities\\User.cs",
+              "RelativeToolTip": "LibraryManagementSystem\\Entities\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T17:09:00.445Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LibraryManagementTests.cs",
+              "DocumentMoniker": "C:\\Users\\panda10\\Desktop\\LibraryManagementSystem\\LibraryManagementSystem\\Tests\\LibraryManagementTests.cs",
+              "RelativeDocumentMoniker": "LibraryManagementSystem\\Tests\\LibraryManagementTests.cs",
+              "ToolTip": "C:\\Users\\panda10\\Desktop\\LibraryManagementSystem\\LibraryManagementSystem\\Tests\\LibraryManagementTests.cs",
+              "RelativeToolTip": "LibraryManagementSystem\\Tests\\LibraryManagementTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T17:08:58.51Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
